@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.conatiner{
+	height:50px;
+	width:600px;
+	background-color:lightgray;
+	border:2px solid black;
+}
